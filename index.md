@@ -5,6 +5,7 @@ title: My Personal Website
 # Welcome to My Website!
 
 Hi! Welcome to my personal website. My name is Anthony, and I am learning programming and web development.
+![Programming and Web Development](https://images.unsplash.com/photo-1498050108023-c5249f4df085)
 
 ## About Me
 
